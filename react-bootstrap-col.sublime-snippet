@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<Col md={$0}>
+
+</Col>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>rbcol</tabTrigger> <!-- react bootstrap col>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>

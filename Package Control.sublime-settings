@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Babel",
+		"Better CoffeeScript",
+		"GitGutter",
+		"LaTeXTools",
+		"Material Theme",
+		"Package Control",
+		"SublimeLinter",
+		"SublimeLinter-pylint",
+		"Theme - Afterglow"
+	]
+}

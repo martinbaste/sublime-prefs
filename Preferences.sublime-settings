@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Facebook (SL).tmTheme",
+	"font_size": 18,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 8,
+	"theme": "Material-Theme.sublime-theme"
+}
